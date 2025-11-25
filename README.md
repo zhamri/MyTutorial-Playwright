@@ -7,3 +7,4 @@
 1. https://github.com/microsoft/playwright
 1. https://practicesoftwaretesting.com/
 1. https://example.com
+1. https://jsonplaceholder.typicode.com/posts/1
